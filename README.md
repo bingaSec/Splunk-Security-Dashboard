@@ -16,5 +16,4 @@ Developed a custom Security Information and Event Management (SIEM) dashboard us
 
 ## Featured Evidence
 * **Splunk Dashboard:** High-level visualizations for security operations.
-* **SPL Queries:** Custom scripts used to isolate malicious behavior.
-* [View Dashboard Proposal](./Splunk_SIEM_Compliance_Proposal.pdf)
+* [View Dashboard Proposal](Sutrefia Security Policy Compliance Dashboard Proposal.pdf)
